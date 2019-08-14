@@ -1,0 +1,76 @@
+{
+  "configVersion": 1,
+  "timestamp": 1565792524384,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.48934e8f54ff16cd13f4.js",
+        "/main-es5.bb6b5524556812e9dd27.js",
+        "/manifest.json",
+        "/polyfills-es2015.93bc1bebc4581dc49064.js",
+        "/polyfills-es5.76165cd0d8abfb97aa4d.js",
+        "/runtime-es2015.5bc68c0dd8cf137fbe82.js",
+        "/runtime-es5.ee0aae13fb762b150814.js",
+        "/styles.f5833c7731ad5004b1d5.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/MaterialIcons-Regular.0509ab09c1b0d2200a41.woff2",
+        "/MaterialIcons-Regular.29b882f018fa6fe75fd3.woff",
+        "/MaterialIcons-Regular.96c476804d7a788cc1c0.eot",
+        "/MaterialIcons-Regular.da4ea5cdfca6b3baab28.ttf",
+        "/assets/ngx-rocket-logo.png",
+        "/assets/ngx-rocket-logo@192.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/MaterialIcons-Regular.0509ab09c1b0d2200a41.woff2": "308ee3580a4a34bd230025d460762d53b5344efc",
+    "/MaterialIcons-Regular.29b882f018fa6fe75fd3.woff": "951adc0458f2ead8495da26886b1f1284a716eaa",
+    "/MaterialIcons-Regular.96c476804d7a788cc1c0.eot": "b28698262d8d8766c7c1bede47059ebea19a90a0",
+    "/MaterialIcons-Regular.da4ea5cdfca6b3baab28.ttf": "b2091f9964be16d1065d5afee6d0b258fe29a5ac",
+    "/assets/ngx-rocket-logo.png": "0ac53fd27406fe5a36e68285315fb0012e54058e",
+    "/assets/ngx-rocket-logo@192.png": "461b730f9c6dc818f8af9acbe62dfde24dc02d7a",
+    "/favicon.ico": "b65083d46bbf63692d5d2cdd69622e6d7ecae317",
+    "/index.html": "9529d691323593dab79f7c2bda59caa5c856e875",
+    "/main-es2015.48934e8f54ff16cd13f4.js": "61ba57fb5da0a61f075120a4db20a7ff550bcb1f",
+    "/main-es5.bb6b5524556812e9dd27.js": "90a207851d2c603bc3c76ddbf338c2c8aecd9652",
+    "/manifest.json": "8e4a3d78e0840d46e339b019a5fad259a3db7345",
+    "/polyfills-es2015.93bc1bebc4581dc49064.js": "058203dab4ba87056d6976029ba60fa42e6f75b9",
+    "/polyfills-es5.76165cd0d8abfb97aa4d.js": "ad4361b1c178a3bd94e8213e487ab51ab008d904",
+    "/runtime-es2015.5bc68c0dd8cf137fbe82.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/runtime-es5.ee0aae13fb762b150814.js": "b62956c2192bfe5516d6374e753773901ed50ec5",
+    "/styles.f5833c7731ad5004b1d5.css": "51ee2c0a469de89f1fa75c4f73b6411ae6ad1508"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
